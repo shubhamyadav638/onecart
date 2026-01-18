@@ -1,13 +1,6 @@
 🛒 OneCart - AI-Powered E-Commerce Platform
 OneCart is a full-stack e-commerce solution built with the MERN stack, distinguishing itself with an integrated Voice-Activated AI Assistant. This project bridges the gap between traditional online shopping and interactive user experiences, featuring a robust Admin Dashboard for business management and a seamless User Storefront for customers.
 
-🚀 Live Demo
-Experience the live application through the links below:
-
-🛍️ User Storefront (Frontend): https://onecart-frontend-5581.onrender.com/
-
-⚙️ Admin Dashboard: https://onecart-admin-p1q0.onrender.com/
-
 💳 Test Payment Credentials: To simulate a successful transaction using the Razorpay test mode, use the following UPI ID:
 
 UPI ID: success@razorpay
@@ -83,7 +76,7 @@ Admin: The dedicated dashboard for store owners.
 📬 Contact & Support
 If you encounter any issues or have questions about the project, feel free to reach out.
 
-Developer: Shubham Maurya
-Github Profile:  https://github.com/shubhammaurya0221
+Developer: Shubham yadav
+Github Profile: https://github.com/shubhamyadav638
 
 Built with ❤️ using the MERN Stack.
